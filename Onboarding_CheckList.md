@@ -1,6 +1,6 @@
-### Onboarding Checklist
+## Onboarding Checklist
 
-## Backend 
+### Backend 
 
 - [ ] [Java Tutorial for Beginners](https://www.guru99.com/java-tutorial.html)
   - [Java Video tutorial](https://www.youtube.com/watch?v=Qgl81fPcLc8)
@@ -11,7 +11,7 @@
 - [ ] Backend Task 
 
 
-## Frontend
+### Frontend
 
 - [ ] [React tutorial](https://reactjs.org/tutorial/tutorial.html)
 - [ ] Tainwind css
