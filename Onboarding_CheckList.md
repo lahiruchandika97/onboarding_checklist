@@ -11,9 +11,6 @@
 - [ ] Querydsl
   - [ ] [Intro to Querydsl](https://www.baeldung.com/intro-to-querydsl)
   - [ ] [Querydsl tutorial](https://www.baeldung.com/rest-api-search-language-spring-data-querydsl)
-- [ ] Tailwind CSS 
-  - [ ] [Introduction to tailswind css](https://www.geeksforgeeks.org/tailwind-css/) 
-  - [ ] [Tailwind CSS documentation](https://tailwindcss.com/docs/installation)
 
 - [ ] Backend Task 
 
