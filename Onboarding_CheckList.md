@@ -25,3 +25,9 @@
 - [ ] [Form validation](https://www.sanity.io/guides/form-validation-with-npm-yup)
 
 - [ ] Fronend Task 
+
+### Git
+
+- [ ] [Install Git](https://github.com/git-guides/install-git)
+- [ ] GitHub tutorial
+- [ ] [Using Git with Visual Studio Code](https://www.youtube.com/watch?v=i_23KUAEtUM)
