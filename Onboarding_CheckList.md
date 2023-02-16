@@ -29,5 +29,6 @@
 ### Git
 
 - [ ] [Install Git](https://github.com/git-guides/install-git)
-- [ ] GitHub tutorial
+- [ ] [GitHub introduction and tutorial](https://learningdaily.dev/git-and-github-in-a-nutshell-definitive-tutorial-for-beginners-69e97ffc77ec)
 - [ ] [Using Git with Visual Studio Code](https://www.youtube.com/watch?v=i_23KUAEtUM)
+- [ ] [Git rebase vs merge](https://medium.datadriveninvestor.com/git-rebase-vs-merge-cc5199edd77c)
